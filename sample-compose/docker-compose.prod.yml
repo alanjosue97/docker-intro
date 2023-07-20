@@ -1,0 +1,4 @@
+services:
+  api:
+    image: 782915225744.dkr.ecr.us-west-2.amazonaws.com/backend-academia:latest
+    
